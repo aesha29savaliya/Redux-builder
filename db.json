@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "name": "Aesha Savaliya",
+      "email": "aeshasavaliya29@gmail.com",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
